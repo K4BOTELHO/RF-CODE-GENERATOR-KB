@@ -32,6 +32,11 @@ O sistema foi criado com base em uma lógica simples e robusta, capaz de emitir 
 
 ---
 
+## 👨‍💻 Autor
+- `Base desenvolvida por K4BOTELHO`
+
+---
+
 ## 📜 Licença
 
 Este repositório está sob a licença MIT, permitindo uso livre pessoal ou comercial.
