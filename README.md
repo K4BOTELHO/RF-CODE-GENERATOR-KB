@@ -34,6 +34,13 @@ O sistema foi criado com base em uma lógica simples e robusta, capaz de emitir 
 
 ## 📜 Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).  
-Sinta-se livre para usar, modificar e contribuir!
+Este repositório está sob a licença MIT, permitindo uso livre pessoal ou comercial.
+
+---
+
+## ⭐ Contribua
+
+Se este projeto foi útil para você, deixe uma ⭐ estrela no repositório. Isso ajuda a fortalecer a comunidade e o alcance do projeto.
+
+---
 
